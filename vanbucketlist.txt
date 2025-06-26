@@ -115,3 +115,4 @@ VanBêtiseDiteAuLit
 VanBouseDeVache
 VanBrunch
 ABinVanbev
+VanBidule
